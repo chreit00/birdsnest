@@ -8,6 +8,7 @@ Kleines 3D gedrucktes Häuschen für die unten verlinken LED Schrankleuchten. Di
 
 Support 	:	No <br>
 Layer		:	0.2 <br>
+Infill		:	25% <br>
 Material	:	PLA <br>
 
 ## Post Print
@@ -21,5 +22,5 @@ Roof/Bottom : [PLA Filament – Magenta](https://www.filamentworld.de/shop/pla-f
 #### Magnete
 [Neodym Magnete 3x10](https://www.amazon.de/dp/B07JGR8CQ2/ref=cm_sw_em_r_mt_dp_8HEWHBXDP4HYMRWABQKW)
 
-## Projekt auf GitHub
-[Vogelhaus](https://github.com/chreit00/birdsnest)
+## Projekt auf Thingiverse
+[Vogelhaus](https://www.thingiverse.com/thing:4870126)
