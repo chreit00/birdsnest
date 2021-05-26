@@ -1,5 +1,8 @@
 # Bird`s Nest
 
+![Bird`s Nest Image](https://github.com/chreit00/birdsnest/blob/875ec1893c04eeea381b517223428dcac38b69f1/Images/birdsnest_small.png)<br>
+
+
 Small, 3D printed housing to hold the LED lamps linked below.
 
 ## Printer Settings
